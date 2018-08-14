@@ -9,4 +9,4 @@
 即：《手把手教你完成一个数据科学小项目》系列
 正所谓：“人在家中坐，锅从天上来”，面对新浪财经《中国年轻人正带领国家走向危机？》如此耸人听闻的言论，且来看看读者的反应是怎样的，舆论会是如何。
 
-![](https://pic4.zhimg.com/v2-4944648cbd13b3367216239dd51888de_b.jpg)
+![](https://upload-images.jianshu.io/upload_images/7145358-4837337b07035940.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/656)
