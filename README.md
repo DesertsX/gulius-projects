@@ -10,3 +10,10 @@
 正所谓：“人在家中坐，锅从天上来”，面对新浪财经《中国年轻人正带领国家走向危机？》如此耸人听闻的言论，且来看看读者的反应是怎样的，舆论会是如何。
 
 ![](https://upload-images.jianshu.io/upload_images/7145358-4837337b07035940.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/656)
+
+## [左手读红楼梦，右手写BUG，闲快活](https://zhuanlan.zhihu.com/p/44676544)
+[安利一个惊艳的红楼梦可视化作品](https://zhuanlan.zhihu.com/p/44584551)
+![](https://upload-images.jianshu.io/upload_images/7145358-12a72b6c64f74b5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## [美食图谱复现指南之依存句法分析](https://zhuanlan.zhihu.com/p/56202703)
+![](https://upload-images.jianshu.io/upload_images/7145358-e258e28662556b4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
