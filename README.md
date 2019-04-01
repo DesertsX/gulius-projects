@@ -17,3 +17,7 @@
 
 ## [美食图谱复现指南之依存句法分析](https://zhuanlan.zhihu.com/p/56202703)
 ![](https://upload-images.jianshu.io/upload_images/7145358-e258e28662556b4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## [一文教你用 Neo4j 快速构建明星关系图谱](https://zhuanlan.zhihu.com/p/61096301)
+![](https://upload-images.jianshu.io/upload_images/7145358-91cdbeea03111997.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
