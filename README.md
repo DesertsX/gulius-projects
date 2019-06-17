@@ -12,7 +12,7 @@
 
 ## [左手读红楼梦，右手写BUG，闲快活](https://zhuanlan.zhihu.com/p/44676544)
 [安利一个惊艳的红楼梦可视化作品](https://zhuanlan.zhihu.com/p/44584551)
-<img src='images/3-红楼梦可视化作品.jpgg'>
+<img src='images/3-红楼梦可视化作品.jpg'>
 
 ## [美食图谱复现指南之依存句法分析](https://zhuanlan.zhihu.com/p/56202703)
 <img src='images/4-美食图谱.jpg'>
